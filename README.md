@@ -1,2 +1,1 @@
-# tindawg
-assignment
+TinDog Starting Files
